@@ -14,13 +14,13 @@ HAI 1.2
 	IM IN YR loopz UPPIN YR numz WILE DIFFRINT numz AN 101
 		I HAS A rezult ITZ ""
 
-	  BOTH SAEM 0 AN MOD OF numz AN 3, O RLY?
+		BOTH SAEM 0 AN MOD OF numz AN 3, O RLY?
 			YA RLY, rezult R "Fizz"
 		OIC
 
-    BOTH SAEM 0 AN MOD OF numz AN 5, O RLY?
-      YA RLY, rezult R SMOOSH rezult AN "Buzz" MKAY
-    OIC
+		BOTH SAEM 0 AN MOD OF numz AN 5, O RLY?
+			YA RLY, rezult R SMOOSH rezult AN "Buzz" MKAY
+		OIC
 
 		BOTH SAEM rezult AN "", O RLY?
 			YA RLY, VISIBLE numz
